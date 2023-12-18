@@ -1,4 +1,4 @@
-package com.example.kucingku
+package com.example.kucingku.view.onBoarding
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity

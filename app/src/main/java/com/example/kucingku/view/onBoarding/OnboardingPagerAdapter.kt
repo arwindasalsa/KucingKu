@@ -1,4 +1,4 @@
-package com.example.kucingku
+package com.example.kucingku.view.onBoarding
 
 import androidx.fragment.app.Fragment
 import androidx.fragment.app.FragmentManager

@@ -1,9 +1,11 @@
-package com.example.kucingku
+package com.example.kucingku.view.splash
 
 import android.content.Intent
 import android.os.Bundle
 import android.os.Handler
 import androidx.appcompat.app.AppCompatActivity
+import com.example.kucingku.view.main.MainActivity
+import com.example.kucingku.R
 
 class SplashActivity : AppCompatActivity() {
     private val SPLASH_TIME_OUT: Long = 3000
